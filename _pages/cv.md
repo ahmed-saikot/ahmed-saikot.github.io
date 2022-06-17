@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science in Electrical and Electronic Engineering, American International University-Bangladesh (AIUB), 2010
+* Master of Engineering in Telecommunications, American International University-Bangladesh (AIUB), 2012
+* Erasmus Mundus Master Course in Sustainable Transportation and Electrical Power Systems (EMMC STEPS), University of Oviedo, Spain, University of Nottingham and University of Rome, Italy, 2015
+* Doctor of Philosophy (Ph.D.) in Applied Physics, The Hong Kong Polytechnic University, Hong Kong, 2012 (expected)
 
 Work experience
 ======
