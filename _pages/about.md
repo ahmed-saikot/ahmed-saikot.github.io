@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Perosnal Website of Ahmed Mortuza Saleque"
+title: "Personal Website of Ahmed Mortuza Saleque"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
